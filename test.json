@@ -1,0 +1,11 @@
+{
+    "clave1": "valor1",
+    "clave2": 42,
+    "clave3": true,
+    "clave4": [1, 2, 3],
+    "clave5": {
+        "subclave1": "valor",
+        "subclave2": 100
+    }
+}
+
